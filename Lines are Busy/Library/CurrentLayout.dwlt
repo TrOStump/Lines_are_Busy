@@ -460,6 +460,7 @@ MonoBehaviour:
   m_LastFoldersGridSize: -1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastProjectPath: /Users/allan/Documents/GitHub/Lines_are_Busy/Lines are Busy
   m_IsLocked: 0
   m_FolderTreeState:
@@ -472,6 +473,10 @@ MonoBehaviour:
 =======
   m_LastProjectPath: C:\Users\g00260698\Documents\Lines are Busy
 >>>>>>> parent of a3f2b6f... test commit
+=======
+  m_LastProjectPath: C:\Users\g00260698\Documents\GitHub\Lines_are_Busy\Lines are
+    Busy
+>>>>>>> a3f2b6f9740c69d22ea17286a0faddb9fd89ce1c
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -539,7 +544,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -556,7 +561,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -716,6 +721,7 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.6225075, y: 1.328629, z: 0.005966087}
     speed: 2
     m_Value: {x: -0.6225075, y: 1.328629, z: 0.005966087}
@@ -729,6 +735,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.62995183, y: 0.94003755, z: -0.008896433}
 >>>>>>> parent of a3f2b6f... test commit
+=======
+    m_Target: {x: -0.6225075, y: 1.328629, z: 0.005966087}
+    speed: 2
+    m_Value: {x: -0.6225075, y: 1.328629, z: 0.005966087}
+>>>>>>> a3f2b6f9740c69d22ea17286a0faddb9fd89ce1c
   m_RenderMode: 0
   m_SceneViewState:
     showFog: 1
@@ -756,6 +767,7 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 9.544407
     speed: 2
     m_Value: 9.544407
@@ -769,6 +781,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 11.033997
 >>>>>>> parent of a3f2b6f... test commit
+=======
+    m_Target: 9.544407
+    speed: 2
+    m_Value: 9.544407
+>>>>>>> a3f2b6f9740c69d22ea17286a0faddb9fd89ce1c
   m_Ortho:
     m_Target: 0
     speed: 2
