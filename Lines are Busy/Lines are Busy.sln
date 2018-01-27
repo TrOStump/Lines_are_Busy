@@ -1,14 +1,28 @@
 ﻿
+<<<<<<< HEAD
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 
+=======
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lines are Busy", "Lines are Busy.csproj", "{10F56E75-7CBF-BADB-D5C6-E128935F32B1}"
+EndProject
+>>>>>>> cf403a911f90e2cb688d6e1bb1a966cbcd216443
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 
+=======
+		{10F56E75-7CBF-BADB-D5C6-E128935F32B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F56E75-7CBF-BADB-D5C6-E128935F32B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F56E75-7CBF-BADB-D5C6-E128935F32B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F56E75-7CBF-BADB-D5C6-E128935F32B1}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> cf403a911f90e2cb688d6e1bb1a966cbcd216443
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
