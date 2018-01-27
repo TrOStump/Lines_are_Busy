@@ -366,7 +366,8 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\g00260698\Documents\Lines are Busy
+  m_LastProjectPath: C:\Users\g00260698\Documents\GitHub\Lines_are_Busy\Lines are
+    Busy
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -427,7 +428,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -444,7 +445,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -576,9 +577,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.62995183, y: 0.94003755, z: -0.008896433}
+    m_Target: {x: -0.6225075, y: 1.328629, z: 0.005966087}
     speed: 2
-    m_Value: {x: -0.62995183, y: 0.94003755, z: -0.008896433}
+    m_Value: {x: -0.6225075, y: 1.328629, z: 0.005966087}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -606,9 +607,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 11.033997
+    m_Target: 9.544407
     speed: 2
-    m_Value: 11.033997
+    m_Value: 9.544407
   m_Ortho:
     m_Target: 1
     speed: 2
